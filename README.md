@@ -193,7 +193,7 @@ differ.
 
 ### 1. Kali Linux Desktop
 
-![Kali Linux Desktop](kali-linux.png)
+![Kali Linux Desktop](Kali-Linux.png)
 
 ### 2. VirtualBox VM Overview
 
@@ -201,11 +201,11 @@ differ.
 
 ### 3. Kali Linux Network Configuration
 
-![Kali Linux Network Settings](network-settings-kali.png)
+![Kali Linux Network Settings](Network-Setting-Kali.png)
 
 ### 4. VirtualBox Network Configuration
 
-![VirtualBox Network Settings](network-settings.png)
+![VirtualBox Network Settings](Network-Setting-VM.png)
 
 ### Screenshot documentation tips
 
